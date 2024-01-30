@@ -10,8 +10,6 @@ It can also provide guidance on how to set up and manage software development en
 
 
 
-[Click Here to Join our Discord server!](https://discord.gg/QEkCXAXYSe)
-
 
 
 
