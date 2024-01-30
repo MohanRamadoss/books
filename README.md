@@ -9,6 +9,7 @@ It can also provide guidance on how to set up and manage software development en
 
 
 [https://www.youtube.com/watch?v=mcSewiDGhME](https://youtu.be/kx5p2YNNCBs)
+https://www.youtube.com/watch?v=EOGqjcAxrzY
 
 
 
