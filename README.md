@@ -1,9 +1,4 @@
-![stars](https://img.shields.io/github/stars/collabnix/chatgpt-prompts-devops)
-![forks](https://img.shields.io/github/forks/collabnix/chatgpt-prompts-devops)
-![Discord](https://img.shields.io/discord/1020180904129335379)
-![issues](https://img.shields.io/github/issues/collabnix/chatgpt-prompts-devops)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.chatgpt-prompts-devops)
-![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
+
 
 # ChatGPT for DevOps
 
@@ -55,12 +50,6 @@ It can also provide guidance on how to set up and manage software development en
 | 3 |  Kubernetes | Virtual Testing Environment | {helm install bitnami/mysql –generate-name} |
 | 4 |  Kubernetes | Virtual Testing Environment | {helm show chart bitnami/mysql} |
 
-
-## 🖌️ Blogs
-
-- [ChatGPT Blogs](https://collabnix.com/tag/chatgpt/)
-- [ChatGPT for Python Developers](https://collabnix.com/chatgpt-for-python-developers/)
-- [How to Build a Discord Bot with ChatGPT](https://collabnix.com/how-to-build-a-discord-bot-with-chatgpt/)
 
 
 
