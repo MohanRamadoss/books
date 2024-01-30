@@ -8,8 +8,6 @@ For instance, ChatGPT can help with answering questions related to programming l
 It can also provide guidance on how to set up and manage software development environments, automate deployment processes, and troubleshoot issues that may arise during development or deployment. Furthermore, ChatGPT can be used to automate certain DevOps tasks by integrating it with chatbots or virtual assistants. This can help streamline workflows, reduce manual intervention, and improve the overall efficiency of the DevOps process.
 
 
-[https://www.youtube.com/watch?v=mcSewiDGhME](https://youtu.be/kx5p2YNNCBs)
-https://www.youtube.com/watch?v=EOGqjcAxrzY
 
 
 
