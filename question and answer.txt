@@ -132,3 +132,7 @@ Incorporate insights from yum.log and Red Hat Satellite Server for better contex
 Adapt to variations in RHEL versions and package management tools.
 
 
+Use Cases: Present compelling narratives with data visuals:
+CPU Spike Scenario: AI identifies a faulty process leading to high CPU, recommends restarting with throttling. (Graph showing CPU spike and resolution)
+SSH Attack: Machine learning detects brute force attempt, blocks suspicious IP, and alerts the team. (Security alert notification image)
+
